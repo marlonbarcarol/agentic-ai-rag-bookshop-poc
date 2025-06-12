@@ -1,4 +1,4 @@
-package com.example.bookshop_llm_poc;
+package com.bookshop_llm_poc;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

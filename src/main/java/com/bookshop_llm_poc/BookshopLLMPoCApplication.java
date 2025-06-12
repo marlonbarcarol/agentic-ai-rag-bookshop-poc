@@ -1,4 +1,4 @@
-package com.example.bookshop_llm_poc;
+package com.bookshop_llm_poc;
 
 import org.springframework.ai.support.ToolCallbacks;
 import org.springframework.ai.tool.ToolCallback;
