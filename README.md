@@ -33,7 +33,7 @@ The application leverages a locally running instance of **Ollama** with the `lla
    ```bash
    ollama run llama3:2
    ```
-   This starts the model on the default port 11434.
+   This starts the model on the default port `11434`.
 
 2. Run the Spring Boot application:
     ```bash 
