@@ -1,4 +1,4 @@
-# 📚 AI-Powered Bookshop System
+# 📚 PoC for AI Chat Bookshop System
 
 This is a simple bookshop system powered by **Spring AI** and enhanced with **Retrieval Augmented Generation (RAG)**. It provides an intelligent chat interface that allows users to interact with the system naturally — just like speaking with a human assistant.
 
