@@ -40,8 +40,7 @@ The application leverages a locally running instance of **Ollama** with the `lla
     ./gradlew bootRun
     ```
 
-3. Test the chat endpoint:
-   Once the app is running, you can interact with the AI chat interface. Ideas for queries include:
+3. Once the app is running, you can interact with the AI chat interface. Ideas for queries include:
     ```bash
    curl --get --data-urlencode "query=What books do you have in your store?" localhost:8080/user/1/chat
    curl --get --data-urlencode "query=My name is Bob" localhost:8080/user/1/chat
