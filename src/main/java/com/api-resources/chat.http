@@ -1,2 +1,2 @@
 
-GET localhost:8080/user/{{userId}}/chat?query=What books do you have in your store?
+GET localhost:8080/user/{{userId}}/chat?query=What books are available?

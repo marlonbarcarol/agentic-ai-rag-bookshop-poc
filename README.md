@@ -1,6 +1,6 @@
-# 📚 PoC for AI Chat Bookshop System
+# 📚 PoC for AI Agentic RAG for a Bookshop 
 
-This is a simple bookshop system powered by **Spring AI** and enhanced with **Retrieval Augmented Generation (RAG)**. It provides an intelligent chat interface that allows users to interact with the system naturally — just like speaking with a human assistant.
+This is a simple bookshop agent powered by **Spring AI** and enhanced with **Retrieval Augmented Generation (RAG)**. It provides an intelligent chat interface that allows users to interact with the system naturally — just like speaking with a human assistant.
 
 The application leverages a locally running instance of **Ollama** with the `llama3:2` model to power its AI-driven responses.
 
